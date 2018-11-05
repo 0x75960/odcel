@@ -1,0 +1,7 @@
+[package]
+name = "odcel"
+version = "0.1.0"
+authors = ["Hiromitsu Oshiba <0x75960@chocola.tech>"]
+
+[dependencies]
+structopt = "0.2"
